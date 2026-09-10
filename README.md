@@ -4,11 +4,11 @@ Proxy live (HTTP / SOCKS4 / SOCKS5) - auto-checked setiap jam.
 
 | Protocol | Count | Raw List |
 |---|---|---|
-| HTTP | 0 | [http.txt](http.txt) |
-| SOCKS4 | 0 | [socks4.txt](socks4.txt) |
-| SOCKS5 | 0 | [socks5.txt](socks5.txt) |
-| **Total** | **0** | [proxy.txt](proxy.txt) |
+| HTTP | 1606 | [http.txt](http.txt) |
+| SOCKS4 | 256 | [socks4.txt](socks4.txt) |
+| SOCKS5 | 219 | [socks5.txt](socks5.txt) |
+| **Total** | **2081** | [proxy.txt](proxy.txt) |
 
 Format: file per-protokol = ip:port, proxy.txt = scheme://ip:port
 
-**Last update:** 09/09/2026 19:33:47 WIB
+**Last update:** 10/09/2026 21:22:52 WIB
